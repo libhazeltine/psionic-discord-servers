@@ -1,4 +1,4 @@
-![F80E81D6-33F9-4987-A962-263FAD885559_1_105_c](https://github.com/libhazeltine/psionic-discord-servers/assets/136414405/cddd891f-58e5-4d3b-b3fc-22ed553c249b)# Psionic Discord Servers
+# Psionic Discord Servers
 
 [**Hazeltine Village**](https://discord.com/invite/NpGH4T9Jd7) - The official discord for the Hazeltine Library and associated projects. 
 
